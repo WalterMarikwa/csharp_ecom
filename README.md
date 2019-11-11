@@ -20,8 +20,15 @@ dotnet add package Pomelo.EntityFrameworkCore.MySql —version 3.0.0-rc1.final
 
 ## Screenshots
 
+### Products Page
+
 ![Working Admin App](/prodimages/productspage.png)
+
+### Create New
+
 ![Working create form](/prodimages/createproducts.png)
+
+### Edited Product
 ![Working Admin edit](/prodimages/editedproducts.png)
 
 ## License
