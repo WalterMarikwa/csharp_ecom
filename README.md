@@ -1,12 +1,16 @@
 # C# API-Webserver
 
-A webserver containing MySql databases and Api routes from .Net for an ecommerce Admin App.
+An Admin app containing a database from MySQL to use CRUD method using API's genarated from Asp.Net Core. 
 
 ## Technologies
 
 - C#
 - .Net Framework
 - React.Js
+
+## Run App
+
+```dotnet run```
 
 ## Installation
 ```
